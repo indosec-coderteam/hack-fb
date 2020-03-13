@@ -16,4 +16,4 @@ $ git clone https://github.com/indosec-coderteam/hack-fb
 
 $ cd hack-fb
 
-$ python hack-fb.py
+$ python fb.py
